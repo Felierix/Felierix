@@ -2,6 +2,11 @@
 <img src="https://cdn.discordapp.com/attachments/921423896270491668/955830585501306880/-_-001.png"></img>
 <h1 align="center">SKILL SETS</h1>
 <br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WINDOWS-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
@@ -16,9 +21,9 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REDUX-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT ROUTER-CA4245.svg?&style=for-the-badge&logo=Reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REDUX-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white"/>
 </div>
 <br/>
 <h2 align="center">Contact : winhave@naver.com</h2>
