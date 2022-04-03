@@ -1,6 +1,6 @@
 <br/>
 <img src="https://cdn.discordapp.com/attachments/921423896270491668/955830585501306880/-_-001.png"></img>
-<h1 align="center">SKILL SETS</h1>
+<h1 align="center">ABOUT ME</h1>
 <br/>
 
 <div align="center">
