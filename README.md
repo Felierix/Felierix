@@ -4,6 +4,9 @@
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/WINDOWS-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/LINUX-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black"/>
 </div>
