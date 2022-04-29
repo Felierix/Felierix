@@ -1,5 +1,5 @@
 <br/>
-<img src="https://cdn.discordapp.com/attachments/921423896270491668/955830585501306880/-_-001.png"></img>
+<img src="https://cdn.discordapp.com/attachments/921423896270491668/969533573721911296/banner.png"></img>
 <h1 align="center">ABOUT ME</h1>
 <br/>
 
