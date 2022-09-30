@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-000000.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-000000.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000000.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
