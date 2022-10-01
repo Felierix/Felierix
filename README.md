@@ -1,26 +1,16 @@
 <br/>
-<img src="https://media.discordapp.net/attachments/921423896270491668/1025520375163015188/unknown.png"></img>
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/921423896270491668/1025520375163015188/unknown.png"></img>
+</div>
 
 <br/>
 <h2 align="center">ABOUT ME</h2>
 <br/>
 
 <div align="center">
-  Hey! 🖐 I'm a front-end developer in South Korea. 
-</div>
-<br/>
-<div align="center">
-  I am a junior developer who started front-end
-</div>
-<div align="center">
-  on 10/21/21 and still has a lot to learn.
-</div>
-<br/>
-<div align="center">
-  You might wonder what my profile picture and the banner are.
-</div>
-<div align="center">
-  They are Halley Labs' artists, which are my favorites. 😍
+  <p>Hey! 🖐 I'm a front-end developer in South Korea.</p>
+  <p>I am a junior developer who started front-end</p>
+  <p>on 10/21/21 and still has a lot to learn.</p>
 </div>
 
 <br/>
@@ -47,10 +37,23 @@
 <br/>
 
 <div align="center">
-  E-mail: winhave@naver.com
-</div>
-<div align="center">
-  Discord: Sonnehilda#0001
+  <p>E-mail : winhave@naver.com</p>
+  <p>Discord : Sonnehilda#0001</p>
 </div>
 
 <br/>
+<br/>
+
+<div align="center">
+  <a href="https://youtu.be/6tLS6Dqbs_E?t=105">
+    <img alt="METAROOM - S.N.U.F.F.Y" src="https://media.discordapp.net/attachments/921423896270491668/1025809149713469482/unknown.png?width=480&height=270"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>KITCALIBER - HALCYONDAZE - MEGAFAUNA</p>
+  <p>01:45 ━━━━●───── 03:37</p>
+  <p>⇆ㅤ ㅤ◁ㅤ ❚❚ ㅤ▷ ㅤㅤ↻</p>
+</div>
