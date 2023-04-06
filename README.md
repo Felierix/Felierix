@@ -37,8 +37,8 @@
 <br/>
 
 <div align="center">
-  <p>E-mail : winhave@naver.com</p>
-  <p>Discord : Sonnehilda#0001</p>
+  <p>E-mail : izzysden@naver.com</p>
+  <p>Discord : izzysden#8033</p>
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://youtu.be/6tLS6Dqbs_E?t=105">
-    <img alt="METAROOM - S.N.U.F.F.Y" src="https://media.discordapp.net/attachments/921423896270491668/1025809149713469482/unknown.png?width=480&height=270"/>
+    <img alt="KITCALIBER - HALCYONDAZE - MEGAFAUNA" src="https://media.discordapp.net/attachments/921423896270491668/1025809149713469482/unknown.png?width=480&height=270"/>
   </a>
 </div>
 
