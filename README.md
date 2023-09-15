@@ -38,7 +38,7 @@
 
 <div align="center">
   <p>E-mail : izzysden@naver.com</p>
-  <p>Discord : izzysden#8033</p>
+  <p>Discord : izzysden</p>
 </div>
 
 <br/>
